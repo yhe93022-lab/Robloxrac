@@ -1,6 +1,5 @@
 local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
-})
     Title = "Tắc kè hub [ Premium ]",-- thay tên bạn muốn đặt
     SubTitle = "By Chí Tài",-- tên bạn
     TabWidth = 160,
@@ -9027,4 +9026,5 @@ spawn(function()
         end
     end
 end);
+
 
